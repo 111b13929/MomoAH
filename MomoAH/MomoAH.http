@@ -1,0 +1,6 @@
+@MomoAH_HostAddress = http://localhost:5072
+
+GET {{MomoAH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
